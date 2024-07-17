@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "*.tpp": "cpp",
+        "*.cps": "javascript",
+        "*.h": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "regex": "cpp"
+    }
+}
